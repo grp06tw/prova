@@ -84,6 +84,13 @@ class PublicController extends Zend_Controller_Action {
         $this->_helper->redirector('index','staff');
     }
 	
+
 	//MODIFICA MARTINA
-	public function provamartiAction(){}
+	public function provamartiAction(){
+//modifica conflitto}
+
+	//modifica Ale
+	public function aleAction(){}
+	
+
 }
