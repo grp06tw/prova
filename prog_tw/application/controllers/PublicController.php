@@ -83,4 +83,8 @@ class PublicController extends Zend_Controller_Action {
     public function reservedareaAction() {
         $this->_helper->redirector('index','staff');
     }
+	
+	//modifica Ale
+	public function aleAction(){}
+	
 }
